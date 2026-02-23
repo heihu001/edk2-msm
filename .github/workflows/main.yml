@@ -31,6 +31,7 @@ jobs:
           - cepheus
           - hotdog
           - guacamole
+          - raphael
           # sdm845
           - beryllium-ebbg
           - beryllium-tianma
